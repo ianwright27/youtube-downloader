@@ -49,7 +49,8 @@ python youtube-downloader.py --url https://www.youtube.com/watch?v=dQw4w9WgXcQ -
 
 📸 Example output:  
 ![List Formats Screenshot](src/quality.png)
-use the quality from the circled region (central column) 
+### ...
+Use the quality from the circled region (central column) 
 eg. for 676p command would be ```python youtube-downloader.py --url <URL> --quality 676p``` 
 
 ---
